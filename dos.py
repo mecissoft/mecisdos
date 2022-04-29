@@ -24,7 +24,7 @@ time.sleep(0.2)
 print("One little bit...")
 time.sleep(1)
 os.system('cls')
-print("Welcome to MecisDOS! 11.0 this is dos adapted to run on modern os's.")
+print("Welcome to MecisDOS 11.0!. this is dos adapted to run on modern os's.")
 while True:
     com1 = input("C:/>")
     if com1 == "test":
