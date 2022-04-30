@@ -57,7 +57,7 @@ while True:
         print ("color green,blue or gray - making DOS green, blue and gray!")
         print ("echo - repeats words   notepad - opening windows notepad")
         print ("time - shows the time  mspaint - starts microsoft paint")
-        print("vk - Mecis Software VK Group")
+        print("vk - Mecis Software VK Group  cmd - Performs CMD Commands")
     if com1 == "authors":
         print ("Nikita Rojdestvin - Versions until 8.0.1")
         print ("Artem Litvinsev - Versions from 8.1. MECIS Software Owner")
