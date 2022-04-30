@@ -50,13 +50,15 @@ while True:
         os.system("ls")
     if com1 == "help":
         print ("comands:")
-        print ("help - comands             dir - view files on this dir")
+        print ("help - comands             dir - view files on this catalog")
         print ("reset - restart the dos    clear - clear all message on the dos")
         print ("test - test command         exit - exit the dos")
         print ("ver - version              sysinfo - your system info")
         print ("info - DOS Information      authors - DOS Authors")
         print ("echo - repeats words   notepad - opening windows notepad")
         print ("time - shows the time  vk - Mecis VK Group")
+        print("term - Performs command on terminal")
+
     if com1 == "authors":
         print ("Nikita Rojdestvin - Versions until 8.0.1")
         print ("Artem Litvinsev - Versions from 8.1. MECIS Software Owner")
