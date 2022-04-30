@@ -46,8 +46,8 @@ while True:
     if com1 == "reset":
         os.system("python dos.py")
         break
-    if com1 == "dir":
-        os.system("dir")
+    if com1 == "ls":
+        os.system("ls")
     if com1 == "help":
         print ("comands:")
         print ("help - comands             dir - view files on this dir")
